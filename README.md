@@ -1,14 +1,19 @@
 # spicetify-util
 
-Utility for using the [spicetify](https://spicetify.app/) mod for Spotify.
+Personal utility (Windows OS) for [spicetify](https://spicetify.app/) mod for Spotify. 
 
 
+## Install
+
+```
+iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+```
 
 ## Update
 
 For Windows OS.
 
-Run the .bat to update spicetify to spotify.
+Run the run.bat to update spicetify to spotify.
 
 Taken from [this](https://www.reddit.com/r/spicetify/comments/y558bz/how_i_update_spicetify_after_spotify_client/) reddit post.
 
